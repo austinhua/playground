@@ -9,8 +9,15 @@ public class JSONRead {
 		JSONObject obj = new JSONObject(s);
 		JSONArray arr = new JSONArray(a);
 		
-		System.out.println(obj);
-		System.out.println(arr);
+		
+		System.out.println(((JSONObject)arr.get(1)).get("field1"));
+		
+		String key = "field2";
+		for (int i = 0; i < arr.length(); i++) {
+			JSONObject o_i = arr.getJSONObject(i);
+			String field2 = o_i.getString(key);
+			System.out.println(key + ": " + field2);
+		}
 	}
 	
 	
