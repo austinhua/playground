@@ -6,6 +6,7 @@
 			<accessrule kind="accessible" pattern="javafx/**"/>
 		</accessrules>
 	</classpathentry>
+	<classpathentry kind="lib" path="Resources/json-20160810.jar"/>
 	<classpathentry kind="lib" path="/Users/AH/Documents/CS/308CS/Testing/Resources/xmlpull-1.1.3.1.jar"/>
 	<classpathentry kind="lib" path="/Users/AH/Documents/CS/308CS/Testing/Resources/xpp3_min-1.1.4c.jar"/>
 	<classpathentry kind="lib" path="/Users/AH/Documents/CS/308CS/Testing/Resources/xstream-1.4.9.jar"/>

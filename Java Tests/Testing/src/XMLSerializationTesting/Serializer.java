@@ -1,4 +1,4 @@
-package SerializationTesting;
+package XMLSerializationTesting;
 import com.thoughtworks.xstream.XStream;
 
 public class Serializer {

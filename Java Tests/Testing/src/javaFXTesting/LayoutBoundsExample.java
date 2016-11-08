@@ -1,3 +1,4 @@
+package javaFXTesting;
 import javafx.application.Application;
 import javafx.beans.property.DoubleProperty;
 import javafx.beans.property.ObjectProperty;

@@ -1,4 +1,4 @@
-package SerializationTesting;
+package XMLSerializationTesting;
 
 public class Dog extends Animal {
 	public static final String TAG = "Dog";

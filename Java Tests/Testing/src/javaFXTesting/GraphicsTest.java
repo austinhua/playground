@@ -1,4 +1,4 @@
-package FrontEnd;
+package javaFXTesting;
 import java.util.Map;
 
 import javafx.application.Application;

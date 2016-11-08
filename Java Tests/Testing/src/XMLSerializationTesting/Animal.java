@@ -1,4 +1,4 @@
-package SerializationTesting;
+package XMLSerializationTesting;
 
 public class Animal {
 	private static final String TAG = "Animal";

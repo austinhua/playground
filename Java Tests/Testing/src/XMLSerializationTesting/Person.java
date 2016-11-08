@@ -1,4 +1,4 @@
-package SerializationTesting;
+package XMLSerializationTesting;
 import java.util.ArrayList;
 
 public class Person {

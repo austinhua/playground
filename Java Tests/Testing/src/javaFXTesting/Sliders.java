@@ -1,4 +1,4 @@
-package FrontEnd;
+package javaFXTesting;
 import javafx.application.Application;
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
